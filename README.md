@@ -1,4 +1,4 @@
-# Ionising properties of galaxies in the First Light and Reionisation Simulations (FLARES)
+# Ionising properties of galaxies in the First Light and Reionisation Epoch Simulations (FLARES)
 This repository contains some of the FLARES data published in the paper: https://arxiv.org/abs/2305.18174.
 
 The files `flares_xiion_z_lum-2*` contain the 16th, 50th, and 84th percentile values of the ionising photon production efficiency (xiion) as a function of redshift, in bins of dust-attenuated far-UV luminosity (as shown in Figure 8 of the paper):
